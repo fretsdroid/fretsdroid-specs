@@ -7,13 +7,21 @@ Specifications
 - orientation: landscape
 
 
-Connection
-----------
+Server
+------
+
+- HTTP interface to choose who is who (mutli-player)
+
+
+Client
+------
+
+
+- Connection
 
 ![connection](screen_connect.png)
 
 
-Play
-----
+- Play
 
 ![play](screen_play.png)
