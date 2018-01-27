@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="400"
+   viewBox="0 0 158.75 105.83333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="screen_play.svg"
+   inkscape:export-filename="/home/linkid/Documents/git/games/fretsdroid-controller/specs/screen_play.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12087"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12085"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6643"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="518.98353"
+     inkscape:cy="94.002783"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1918"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-191.16668)">
+    <rect
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.1929612;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8359"
+       width="20"
+       height="39.642841"
+       x="4.5395279"
+       y="191.16669" />
+    <rect
+       style="fill:#d90000;fill-opacity:1;stroke:none;stroke-width:0.1929612;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8359-2"
+       width="20"
+       height="39.642841"
+       x="33.559765"
+       y="191.16669" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.1929612;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8359-9"
+       width="20"
+       height="39.642841"
+       x="91.600243"
+       y="191.16669" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.1929612;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8359-1"
+       width="20"
+       height="39.642841"
+       x="62.580002"
+       y="191.16669" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.1929612;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8359-27"
+       width="20"
+       height="39.642841"
+       x="120.62048"
+       y="191.16669" />
+    <ellipse
+       style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.39604813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8437"
+       cx="125.75031"
+       cy="268.20169"
+       rx="15.902536"
+       ry="16.102989" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.9375px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-288.61322"
+       y="97.20092"
+       id="text8441"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan8439"
+         x="-288.61322"
+         y="97.20092"
+         style="stroke-width:0.26458332px">StarPower</tspan></text>
+    <rect
+       style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8443"
+       width="65.881943"
+       height="25.123335"
+       x="12.160764"
+       y="255.70686" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);fill-opacity:1"
+       d="m 124.232,284.57198 3.20725,6.41447 h 6.21401"
+       id="path8445"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker12087);fill-opacity:1"
+       d="m 59.868373,281.36475 -2.806329,7.75081 -8.018086,0"
+       id="path8447"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="133.8708"
+       y="291.07401"
+       id="text11987"><tspan
+         sodipodi:role="line"
+         id="tspan11985"
+         x="133.8708"
+         y="291.07401"
+         style="font-size:3.17499995px;fill:#800000;stroke-width:0.26458332px">Fret</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33.970459"
+       y="289.11682"
+       id="text12133"><tspan
+         sodipodi:role="line"
+         id="tspan12131"
+         x="33.970459"
+         y="289.11682"
+         style="font-size:3.17499995px;fill:#800000;stroke-width:0.26458332px">Whammy</tspan></text>
+  </g>
+</svg>
